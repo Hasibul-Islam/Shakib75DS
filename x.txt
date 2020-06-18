@@ -1,0 +1,2060 @@
+30*
+1
+39
+0
+0
+v 
+Zimbabwe
+Harare
+6 Aug 2006
+ODI # 2398
+20
+2
+32
+0
+0
+v 
+Kenya
+Nairobi (Gym)
+12 Aug 2006
+ODI # 2402
+13
+1
+26
+0
+0
+v 
+Kenya
+Nairobi (Gym)
+13 Aug 2006
+ODI # 2403
+25*
+0
+28
+0
+0
+v 
+Kenya
+Nairobi (Gym)
+15 Aug 2006
+ODI # 2404
+67*
+0
+23
+0
+0
+v 
+Sri Lanka
+Mohali
+7 Oct 2006
+ODI # 2423
+0
+0
+12
+0
+0
+v 
+West Indies
+Jaipur
+11 Oct 2006
+ODI # 2426
+36
+3
+18
+1
+0
+v 
+Zimbabwe
+Jaipur
+13 Oct 2006
+ODI # 2427
+DNB
+2
+30
+0
+0
+v 
+Zimbabwe
+Khulna
+30 Nov 2006
+ODI # 2453
+36
+2
+44
+0
+0
+v 
+Zimbabwe
+Bogra
+3 Dec 2006
+ODI # 2457
+26
+0
+40
+1
+0
+v 
+Zimbabwe
+Bogra
+5 Dec 2006
+ODI # 2459
+31*
+2
+32
+0
+0
+v 
+Zimbabwe
+Dhaka
+8 Dec 2006
+ODI # 2461
+13
+0
+29
+0
+0
+v 
+Zimbabwe
+Dhaka
+9 Dec 2006
+ODI # 2462
+20*
+1
+13
+0
+0
+v 
+Scotland
+Chattogram
+15 Dec 2006
+ODI # 2465
+44
+1
+8
+1
+0
+v 
+Scotland
+Dhaka
+17 Dec 2006
+ODI # 2467
+68
+1
+40
+0
+0
+v 
+Zimbabwe
+Harare
+4 Feb 2007
+ODI # 2505
+22
+1
+27
+0
+0
+v 
+Zimbabwe
+Harare
+6 Feb 2007
+ODI # 2511
+11
+1
+29
+0
+0
+v 
+Zimbabwe
+Harare
+9 Feb 2007
+ODI # 2516
+25
+1
+42
+1
+0
+v 
+Zimbabwe
+Harare
+10 Feb 2007
+ODI # 2518
+42*
+1
+36
+0
+0
+v 
+Bermuda
+St John's
+25 Feb 2007
+ODI # 2528
+134*
+2
+36
+0
+0
+v 
+Canada
+St John's
+28 Feb 2007
+ODI # 2530
+53
+0
+44
+0
+0
+v 
+India
+Port of Spain
+17 Mar 2007
+ODI # 2538
+4
+1
+49
+0
+0
+v 
+Sri Lanka
+Port of Spain
+21 Mar 2007
+ODI # 2546
+26*
+2
+12
+0
+0
+v 
+Bermuda
+Port of Spain
+25 Mar 2007
+ODI # 2554
+25
+0
+14
+0
+0
+v 
+Australia
+North Sound
+31 Mar 2007
+ODI # 2559
+25
+0
+33
+0
+0
+v 
+New Zealand
+North Sound
+2 Apr 2007
+ODI # 2561
+9
+2
+49
+1
+0
+v 
+South Africa
+Providence
+7 Apr 2007
+ODI # 2564
+57*
+0
+19
+0
+0
+v 
+England
+Bridgetown
+11 Apr 2007
+ODI # 2568
+3
+1
+44
+0
+0
+v 
+Ireland
+Bridgetown
+15 Apr 2007
+ODI # 2572
+0
+1
+38
+0
+0
+v 
+West Indies
+Bridgetown
+19 Apr 2007
+ODI # 2576
+50
+2
+43
+1
+0
+v 
+India
+Dhaka
+10 May 2007
+ODI # 2582
+5
+0
+40
+0
+0
+v 
+India
+Dhaka
+12 May 2007
+ODI # 2583
+0
+0
+50
+1
+0
+v 
+Sri Lanka
+Colombo (PSS)
+20 Jul 2007
+ODI # 2605
+15
+-
+-
+0
+0
+v 
+Sri Lanka
+Colombo (RPS)
+23 Jul 2007
+ODI # 2606
+2
+1
+43
+0
+0
+v 
+Sri Lanka
+Colombo (RPS)
+25 Jul 2007
+ODI # 2607
+6
+3
+56
+0
+0
+v 
+New Zealand
+Auckland
+26 Dec 2007
+ODI # 2658
+15
+0
+55
+0
+0
+v 
+New Zealand
+Napier
+28 Dec 2007
+ODI # 2659
+10
+0
+16
+0
+0
+v 
+New Zealand
+Queenstown
+31 Dec 2007
+ODI # 2660
+6
+1
+29
+0
+0
+v 
+South Africa
+Chattogram
+9 Mar 2008
+ODI # 2690
+52
+0
+28
+0
+0
+v 
+South Africa
+Dhaka
+12 Mar 2008
+ODI # 2691
+12
+0
+47
+0
+0
+v 
+South Africa
+Dhaka
+14 Mar 2008
+ODI # 2692
+DNB
+1
+38
+0
+0
+v 
+Ireland
+Dhaka
+18 Mar 2008
+ODI # 2693
+2
+2
+16
+0
+0
+v 
+Ireland
+Dhaka
+20 Mar 2008
+ODI # 2694
+7
+2
+46
+0
+0
+v 
+Ireland
+Dhaka
+22 Mar 2008
+ODI # 2695
+0
+1
+52
+0
+0
+v 
+Pakistan
+Lahore
+8 Apr 2008
+ODI # 2696
+4
+1
+29
+0
+0
+v 
+Pakistan
+Faisalabad
+11 Apr 2008
+ODI # 2698
+75
+2
+50
+0
+0
+v 
+Pakistan
+Lahore
+13 Apr 2008
+ODI # 2700
+108
+1
+34
+0
+0
+v 
+Pakistan
+Multan
+16 Apr 2008
+ODI # 2702
+5
+0
+52
+1
+0
+v 
+Pakistan
+Karachi
+19 Apr 2008
+ODI # 2703
+7
+2
+46
+0
+0
+v 
+Australia
+Darwin
+30 Aug 2008
+ODI # 2758
+19
+2
+38
+0
+0
+v 
+Australia
+Darwin
+3 Sep 2008
+ODI # 2760
+27
+0
+25
+0
+0
+v 
+Australia
+Darwin
+6 Sep 2008
+ODI # 2762
+5*
+1
+30
+0
+0
+v 
+New Zealand
+Dhaka
+9 Oct 2008
+ODI # 2763
+10
+2
+20
+0
+0
+v 
+New Zealand
+Dhaka
+11 Oct 2008
+ODI # 2764
+1
+2
+41
+0
+0
+v 
+New Zealand
+Chattogram
+14 Oct 2008
+ODI # 2765
+51
+2
+48
+0
+0
+v 
+South Africa
+Potchefstroom
+7 Nov 2008
+ODI # 2771
+17
+0
+67
+0
+0
+v 
+South Africa
+Benoni
+9 Nov 2008
+ODI # 2772
+52
+3
+23
+2
+0
+v 
+Zimbabwe
+Dhaka
+10 Jan 2009
+ODI # 2790
+92*
+0
+24
+0
+0
+v 
+Sri Lanka
+Dhaka
+14 Jan 2009
+ODI # 2793
+9
+2
+22
+1
+0
+v 
+Sri Lanka
+Dhaka
+16 Jan 2009
+ODI # 2794
+15
+3
+11
+0
+0
+v 
+Zimbabwe
+Dhaka
+19 Jan 2009
+ODI # 2797
+22
+0
+24
+0
+0
+v 
+Zimbabwe
+Dhaka
+21 Jan 2009
+ODI # 2799
+33*
+3
+15
+0
+0
+v 
+Zimbabwe
+Dhaka
+23 Jan 2009
+ODI # 2801
+54
+1
+26
+0
+0
+v 
+West Indies
+Roseau
+26 Jul 2009
+ODI # 2862
+65
+1
+42
+1
+0
+v 
+West Indies
+Roseau
+28 Jul 2009
+ODI # 2863
+16
+0
+28
+1
+0
+v 
+West Indies
+Basseterre
+31 Jul 2009
+ODI # 2865
+DNB
+2
+42
+0
+0
+v 
+Zimbabwe
+Bulawayo
+9 Aug 2009
+ODI # 2869
+104
+2
+39
+1
+0
+v 
+Zimbabwe
+Bulawayo
+11 Aug 2009
+ODI # 2871
+17
+2
+65
+0
+0
+v 
+Zimbabwe
+Bulawayo
+14 Aug 2009
+ODI # 2872
+19
+0
+70
+0
+0
+v 
+Zimbabwe
+Bulawayo
+16 Aug 2009
+ODI # 2873
+30
+0
+22
+0
+0
+v 
+Zimbabwe
+Bulawayo
+18 Aug 2009
+ODI # 2874
+13
+0
+49
+0
+0
+v 
+Zimbabwe
+Dhaka
+27 Oct 2009
+ODI # 2914
+105*
+1
+24
+0
+0
+v 
+Zimbabwe
+Dhaka
+29 Oct 2009
+ODI # 2916
+5*
+0
+32
+0
+0
+v 
+Zimbabwe
+Dhaka
+31 Oct 2009
+ODI # 2917
+DNB
+3
+8
+1
+0
+v 
+Zimbabwe
+Chattogram
+3 Nov 2009
+ODI # 2920
+20
+3
+29
+1
+0
+v 
+Zimbabwe
+Chattogram
+5 Nov 2009
+ODI # 2922
+1
+0
+43
+0
+0
+v 
+Sri Lanka
+Dhaka
+4 Jan 2010
+ODI # 2937
+0
+1
+45
+1
+0
+v 
+India
+Dhaka
+7 Jan 2010
+ODI # 2939
+47
+0
+27
+0
+0
+v 
+Sri Lanka
+Dhaka
+8 Jan 2010
+ODI # 2940
+85
+1
+58
+0
+0
+v 
+India
+Dhaka
+11 Jan 2010
+ODI # 2942
+8
+1
+62
+0
+0
+v 
+New Zealand
+Napier
+5 Feb 2010
+ODI # 2949
+0
+0
+13
+0
+0
+v 
+New Zealand
+Dunedin
+8 Feb 2010
+ODI # 2951
+36
+4
+33
+1
+0
+v 
+New Zealand
+Christchurch
+11 Feb 2010
+ODI # 2953
+12
+1
+42
+0
+0
+v 
+England
+Dhaka
+28 Feb 2010
+ODI # 2964
+14
+3
+32
+0
+0
+v 
+England
+Dhaka
+2 Mar 2010
+ODI # 2965
+38
+1
+45
+0
+0
+v 
+England
+Chattogram
+5 Mar 2010
+ODI # 2968
+7
+2
+49
+0
+0
+v 
+India
+Dambulla
+16 Jun 2010
+ODI # 2993
+20
+1
+49
+3
+0
+v 
+Sri Lanka
+Dambulla
+18 Jun 2010
+ODI # 2995
+25
+2
+73
+0
+0
+v 
+Pakistan
+Dambulla
+21 Jun 2010
+ODI # 2998
+20
+2
+35
+0
+0
+v 
+England
+Nottingham
+8 Jul 2010
+ODI # 3018
+1
+2
+40
+1
+0
+v 
+England
+Bristol
+10 Jul 2010
+ODI # 3025
+6
+0
+75
+2
+0
+v 
+England
+Birmingham
+12 Jul 2010
+ODI # 3026
+50
+1
+52
+0
+0
+v 
+Ireland
+Belfast
+15 Jul 2010
+ODI # 3027
+33*
+2
+21
+0
+0
+v 
+Ireland
+Belfast
+16 Jul 2010
+ODI # 3028
+15
+2
+36
+0
+0
+v 
+Netherlands
+Glasgow
+20 Jul 2010
+ODI # 3029
+58
+4
+41
+0
+0
+v 
+New Zealand
+Dhaka
+5 Oct 2010
+ODI # 3051
+13*
+2
+45
+0
+0
+v 
+New Zealand
+Dhaka
+11 Oct 2010
+ODI # 3054
+106
+3
+54
+0
+0
+v 
+New Zealand
+Dhaka
+14 Oct 2010
+ODI # 3056
+36
+2
+35
+1
+0
+v 
+New Zealand
+Dhaka
+17 Oct 2010
+ODI # 3058
+63
+1
+37
+1
+0
+v 
+Zimbabwe
+Dhaka
+1 Dec 2010
+ODI # 3071
+9*
+4
+39
+2
+0
+v 
+Zimbabwe
+Dhaka
+3 Dec 2010
+ODI # 3073
+73
+1
+57
+0
+0
+v 
+Zimbabwe
+Dhaka
+6 Dec 2010
+ODI # 3075
+11
+3
+58
+0
+0
+v 
+Zimbabwe
+Chattogram
+12 Dec 2010
+ODI # 3078
+55
+1
+61
+0
+0
+v 
+India
+Dhaka
+19 Feb 2011
+ODI # 3100
+16
+2
+28
+0
+0
+v 
+Ireland
+Dhaka
+25 Feb 2011
+ODI # 3108
+8
+0
+1
+0
+0
+v 
+West Indies
+Dhaka
+4 Mar 2011
+ODI # 3118
+32
+2
+49
+1
+0
+v 
+England
+Chattogram
+11 Mar 2011
+ODI # 3127
+1
+1
+38
+0
+0
+v 
+Netherlands
+Chattogram
+14 Mar 2011
+ODI # 3131
+30
+2
+46
+1
+0
+v 
+South Africa
+Dhaka
+19 Mar 2011
+ODI # 3138
+51
+0
+34
+0
+0
+v 
+Australia
+Dhaka
+9 Apr 2011
+ODI # 3149
+9
+1
+35
+0
+0
+v 
+Australia
+Dhaka
+11 Apr 2011
+ODI # 3150
+9
+0
+48
+0
+0
+v 
+Australia
+Dhaka
+13 Apr 2011
+ODI # 3151
+53
+1
+48
+0
+0
+v 
+Zimbabwe
+Harare
+12 Aug 2011
+ODI # 3176
+26
+0
+31
+0
+0
+v 
+Zimbabwe
+Harare
+14 Aug 2011
+ODI # 3177
+19
+2
+46
+0
+0
+v 
+Zimbabwe
+Harare
+16 Aug 2011
+ODI # 3179
+39*
+1
+25
+0
+0
+v 
+Zimbabwe
+Bulawayo
+19 Aug 2011
+ODI # 3181
+79
+2
+26
+0
+0
+v 
+Zimbabwe
+Bulawayo
+21 Aug 2011
+ODI # 3183
+67*
+0
+50
+0
+0
+v 
+West Indies
+Dhaka
+13 Oct 2011
+ODI # 3198
+12
+2
+30
+0
+0
+v 
+West Indies
+Dhaka
+15 Oct 2011
+ODI # 3200
+DNB
+4
+16
+0
+0
+v 
+West Indies
+Chattogram
+18 Oct 2011
+ODI # 3202
+15
+2
+42
+1
+0
+v 
+Pakistan
+Dhaka
+1 Dec 2011
+ODI # 3218
+34
+1
+27
+0
+0
+v 
+Pakistan
+Dhaka
+3 Dec 2011
+ODI # 3220
+9
+1
+21
+0
+0
+v 
+Pakistan
+Chattogram
+6 Dec 2011
+ODI # 3222
+64
+2
+41
+1
+0
+v 
+Pakistan
+Dhaka
+11 Mar 2012
+ODI # 3258
+49
+0
+63
+0
+0
+v 
+India
+Dhaka
+16 Mar 2012
+ODI # 3261
+56
+2
+56
+1
+0
+v 
+Sri Lanka
+Dhaka
+20 Mar 2012
+ODI # 3265
+68
+2
+39
+2
+0
+v 
+Pakistan
+Dhaka
+22 Mar 2012
+ODI # 3267
+1
+0
+27
+0
+0
+v 
+Zimbabwe
+Bulawayo
+3 May 2013
+ODI # 3353
+34
+1
+42
+1
+0
+v 
+Zimbabwe
+Bulawayo
+5 May 2013
+ODI # 3354
+18
+0
+43
+0
+0
+v 
+Zimbabwe
+Bulawayo
+8 May 2013
+ODI # 3355
+3
+2
+29
+0
+0
+v 
+Sri Lanka
+Dhaka
+17 Feb 2014
+ODI # 3469
+24
+1
+46
+0
+0
+v 
+Sri Lanka
+Dhaka
+20 Feb 2014
+ODI # 3470
+44*
+1
+53
+0
+0
+v 
+Pakistan
+Dhaka
+4 Mar 2014
+ODI # 3482
+20
+0
+27
+0
+0
+v 
+Sri Lanka
+Dhaka
+6 Mar 2014
+ODI # 3485
+52
+2
+27
+0
+0
+v 
+India
+Dhaka
+15 Jun 2014
+ODI # 3497
+4
+1
+8
+0
+0
+v 
+India
+Dhaka
+17 Jun 2014
+ODI # 3498
+TDNB
+3
+27
+0
+0
+v 
+India
+Dhaka
+19 Jun 2014
+ODI # 3499
+101
+4
+41
+0
+0
+v 
+Zimbabwe
+Chattogram
+21 Nov 2014
+ODI # 3550
+0
+1
+18
+0
+0
+v 
+Zimbabwe
+Chattogram
+23 Nov 2014
+ODI # 3552
+40
+1
+19
+0
+0
+v 
+Zimbabwe
+Dhaka
+26 Nov 2014
+ODI # 3553
+1
+2
+28
+0
+0
+v 
+Zimbabwe
+Dhaka
+28 Nov 2014
+ODI # 3555
+0
+3
+30
+0
+0
+v 
+Zimbabwe
+Dhaka
+1 Dec 2014
+ODI # 3559
+63
+2
+43
+0
+0
+v 
+Afghanistan
+Canberra
+18 Feb 2015
+ODI # 3605
+46
+0
+55
+0
+0
+v 
+Sri Lanka
+Melbourne
+26 Feb 2015
+ODI # 3615
+52*
+1
+46
+0
+0
+v 
+Scotland
+Nelson
+5 Mar 2015
+ODI # 3624
+2
+0
+41
+1
+0
+v 
+England
+Adelaide
+9 Mar 2015
+ODI # 3630
+23
+4
+55
+0
+0
+v 
+New Zealand
+Hamilton
+13 Mar 2015
+ODI # 3634
+10
+1
+58
+1
+0
+v 
+India
+Melbourne
+19 Mar 2015
+ODI # 3641
+31
+1
+45
+0
+0
+v 
+Pakistan
+Dhaka
+17 Apr 2015
+ODI # 3647
+7*
+2
+51
+0
+0
+v 
+Pakistan
+Dhaka
+19 Apr 2015
+ODI # 3648
+DNB
+2
+34
+1
+0
+v 
+Pakistan
+Dhaka
+22 Apr 2015
+ODI # 3649
+52
+2
+33
+0
+0
+v 
+India
+Dhaka
+18 Jun 2015
+ODI # 3658
+51*
+0
+33
+0
+0
+v 
+India
+Dhaka
+21 Jun 2015
+ODI # 3660
+20
+1
+33
+0
+0
+v 
+India
+Dhaka
+24 Jun 2015
+ODI # 3661
+48
+0
+27
+0
+0
+v 
+South Africa
+Dhaka
+10 Jul 2015
+ODI # 3663
+0*
+0
+30
+0
+0
+v 
+South Africa
+Dhaka
+12 Jul 2015
+ODI # 3666
+DNB
+3
+33
+0
+0
+v 
+South Africa
+Chattogram
+15 Jul 2015
+ODI # 3668
+16
+5
+47
+0
+0
+v 
+Zimbabwe
+Dhaka
+7 Nov 2015
+ODI # 3703
+48
+2
+26
+0
+0
+v 
+Afghanistan
+Dhaka
+25 Sep 2016
+ODI # 3781
+17
+4
+47
+0
+0
+v 
+Afghanistan
+Dhaka
+28 Sep 2016
+ODI # 3783
+17
+0
+34
+0
+0
+v 
+Afghanistan
+Dhaka
+1 Oct 2016
+ODI # 3786
+79
+2
+59
+0
+0
+v 
+England
+Dhaka
+7 Oct 2016
+ODI # 3791
+3
+1
+50
+1
+0
+v 
+England
+Dhaka
+9 Oct 2016
+ODI # 3793
+4
+0
+45
+0
+0
+v 
+England
+Chattogram
+12 Oct 2016
+ODI # 3794
+59
+3
+69
+0
+0
+v 
+New Zealand
+Christchurch
+26 Dec 2016
+ODI # 3814
+7
+2
+45
+1
+0
+v 
+New Zealand
+Nelson
+29 Dec 2016
+ODI # 3815
+18
+0
+55
+0
+0
+v 
+New Zealand
+Nelson
+31 Dec 2016
+ODI # 3816
+72
+1
+33
+0
+0
+v 
+Sri Lanka
+Dambulla
+25 Mar 2017
+ODI # 3855
+TDNB
+0
+59
+0
+0
+v 
+Sri Lanka
+Dambulla
+28 Mar 2017
+ODI # 3856
+54
+0
+41
+0
+0
+v 
+Sri Lanka
+Colombo (SSC)
+1 Apr 2017
+ODI # 3858
+14
+-
+-
+-
+-
+v 
+Ireland
+Dublin (Malahide)
+12 May 2017
+ODI # 3866
+6
+0
+50
+0
+0
+v 
+New Zealand
+Dublin
+17 May 2017
+ODI # 3868
+DNB
+1
+38
+0
+0
+v 
+Ireland
+Dublin (Malahide)
+19 May 2017
+ODI # 3869
+19
+2
+41
+1
+0
+v 
+New Zealand
+Dublin
+24 May 2017
+ODI # 3871
+10
+0
+62
+0
+0
+v 
+England
+The Oval
+1 Jun 2017
+ODI # 3875
+29
+-
+-
+0
+0
+v 
+Australia
+The Oval
+5 Jun 2017
+ODI # 3879
+114
+0
+52
+0
+0
+v 
+New Zealand
+Cardiff
+9 Jun 2017
+ODI # 3883
+15
+0
+54
+0
+0
+v 
+India
+Birmingham
+15 Jun 2017
+ODI # 3891
+29
+0
+48
+0
+0
+v 
+South Africa
+Kimberley
+15 Oct 2017
+ODI # 3923
+5
+2
+60
+0
+0
+v 
+South Africa
+Paarl
+18 Oct 2017
+ODI # 3925
+63
+0
+56
+0
+0
+v 
+South Africa
+East London
+22 Oct 2017
+ODI # 3929
+37
+3
+43
+0
+0
+v 
+Zimbabwe
+Dhaka
+15 Jan 2018
+ODI # 3952
+67
+3
+47
+1
+0
+v 
+Sri Lanka
+Dhaka
+19 Jan 2018
+ODI # 3959
+51
+3
+34
+0
+0
+v 
+Zimbabwe
+Dhaka
+23 Jan 2018
+ODI # 3964
+8
+0
+10
+0
+0
+v 
+Sri Lanka
+Dhaka
+25 Jan 2018
+ODI # 3965
+absent
+0
+20
+0
+0
+v 
+Sri Lanka
+Dhaka
+27 Jan 2018
+ODI # 3967
+97
+0
+43
+1
+0
+v 
+West Indies
+Providence
+22 Jul 2018
+ODI # 4022
+56
+2
+45
+0
+0
+v 
+West Indies
+Providence
+25 Jul 2018
+ODI # 4023
+37
+0
+45
+1
+0
+v 
+West Indies
+Basseterre
+28 Jul 2018
+ODI # 4024
+0
+1
+31
+0
+0
+v 
+Sri Lanka
+Dubai (DSC)
+15 Sep 2018
+ODI # 4036
+32
+4
+42
+0
+0
+v 
+Afghanistan
+Abu Dhabi
+20 Sep 2018
+ODI # 4041
+17
+1
+44
+0
+0
+v 
+India
+Dubai (DSC)
+21 Sep 2018
+ODI # 4042
+0
+1
+55
+0
+0
+v 
+Afghanistan
+Abu Dhabi
+23 Sep 2018
+ODI # 4045
+30
+1
+36
+0
+0
+v 
+West Indies
+Dhaka
+9 Dec 2018
+ODI # 4071
+65
+0
+28
+0
+0
+v 
+West Indies
+Dhaka
+11 Dec 2018
+ODI # 4072
+DNB
+2
+40
+0
+0
+v 
+West Indies
+Sylhet
+14 Dec 2018
+ODI # 4073
+61*
+1
+33
+1
+0
+v 
+West Indies
+Dublin
+7 May 2019
+ODI # 4129
+29
+1
+27
+0
+0
+v 
+West Indies
+Dublin (Malahide)
+13 May 2019
+ODI # 4134
+50*
+0
+65
+1
+0
+v 
+Ireland
+Dublin
+15 May 2019
+ODI # 4136
+75
+1
+50
+1
+0
+v 
+South Africa
+The Oval
+2 Jun 2019
+ODI # 4147
+64
+2
+47
+0
+0
+v 
+New Zealand
+The Oval
+5 Jun 2019
+ODI # 4151
+121
+0
+71
+0
+0
+v 
+England
+Cardiff
+8 Jun 2019
+ODI # 4153
+124*
+2
+54
+0
+0
+v 
+West Indies
+Taunton
+17 Jun 2019
+ODI # 4162
+41
+0
+50
+0
+0
+v 
+Australia
+Nottingham
+20 Jun 2019
+ODI # 4166
+51
+5
+29
+0
+0
+v 
+Afghanistan
+Southampton
+24 Jun 2019
+ODI # 4172
+66
+1
+41
+1
+0
+v 
+India
+Birmingham
+2 Jul 2019
+ODI # 4182
+64
+0
+57
+1
+0
+v 
+Pakistan
+Lord's
+5 Jul 2019
+ODI # 4186
