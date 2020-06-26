@@ -1,0 +1,4 @@
+Tried to visualize the world's best all rounder Shakib Al Hasan's career statistics. 
+Used Beautifulsoup for scrapping dataset and visualized data using seaborn, matplotlib, pandas, numpy. 
+Whole project is documented in Bengali language. Hope you would like it.
+Please intall Jupyter Notebook if you want to download this project and run by yourself..
